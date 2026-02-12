@@ -6,7 +6,10 @@
 
 ## プラグイン
 
-- [Figmotion](https://www.figma.com/community/plugin/733025261168520714/figmotion)
+| プラグイン名                                                                     | 特徴                                                                                |
+| -------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| [Figmotion](https://www.figma.com/community/plugin/733025261168520714/figmotion) | - Figmaフレームからアニメ生成<br>- GIF / mp4 などの 出力<br>- Reactなどのコード生成 |
+| [Unsplash](https://www.figma.com/community/plugin/738454987945972471/unsplash)   | - ダミー画像の生成<br>- テーマごとの一括生成あり                                    |
 
 ## キット
 
